@@ -4,11 +4,12 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: telegram
+  icon: 'fab fa-telegram'
+  url: 'https://t.me/cohenthegoat'
 -
   type: email
-  icon: 'fas fa-envelope'
+  icon: 'fa-solid fa-square-envelope'
   noblank: true            # open link in current tab
 -
   type: rss
