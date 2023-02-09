@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   My personal blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'tonymontana.site'
+url: 'https://tonymontana.site'
 
 github:
   username: cohenthegoat             # change to your github username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/sample/avatar.JPG
+avatar: /assets/img/sample/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
