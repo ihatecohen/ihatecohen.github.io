@@ -4,16 +4,15 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: telegram
-  icon: 'fab fa-telegram'
-  url: 'https://t.me/cohenthegoat'
+  type: twitter
+  icon: 'fab fa-twitter'
 -
   type: email
-  icon: 'fa-solid fa-square-envelope'
+  icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
   type: rss
-  icon: 'fa-solid fa-square-rss'
+  icon: 'fas fa-rss'
   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
