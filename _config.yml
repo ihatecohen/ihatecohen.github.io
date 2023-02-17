@@ -21,7 +21,7 @@ timezone:
 
 title: Cohen                          # the main title
 
-tagline: gone,gone/thank you   # it will display as the sub-title
+tagline: 也许跳到外太空我才能找到路   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   My personal blog.
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://tonymontana.site'
 
 github:
-  username: cohenthegoat             # change to your github username
+  username: ihatecohen             # change to your github username
 
 twitter:
   username: ihatecohen            # change to your twitter username
@@ -39,10 +39,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Cohen Chen
-  email: coh3n@qq.com             # change to your email address
+  email: cohenchen@foxmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/cohenthegoat       # change to your github homepage
+    - https://github.com/ihatecohen       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
