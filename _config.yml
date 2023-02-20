@@ -21,7 +21,7 @@ timezone:
 
 title: Cohen                          # the main title
 
-tagline: 也许跳到外太空我才能找到路   # it will display as the sub-title
+tagline: gone,gone/thank you   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   My personal blog.
