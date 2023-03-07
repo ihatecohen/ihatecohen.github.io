@@ -19,9 +19,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cohen                          # the main title
+title: Cohen's Blog                          # the main title
 
-tagline: gone,gone/thank you   # it will display as the sub-title
+tagline: that was then, this is now   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   My personal blog.
@@ -53,7 +53,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-QTS3XWC2KW                 # fill in your Google Analytics ID
+  id: G-W90BDXKLRL                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -96,7 +96,7 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus: 
-    repo: 'cohenthegoat/cohenthegoat.github.io'              # <gh-username>/<repo>
+    repo: 'ihatecohen/ihatecohen.github.io'              # <gh-username>/<repo>
     repo_id: 'R_kgDOI7NstQ'
     category: 'General'
     category_id: 'DIC_kwDOI7Nstc4CUFTw'
