@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=5695F7&center=true&vCenter=true&repeat=false&width=750&height=23&lines=Hi+there%2C+I'm+Cohen)](https://git.io/typing-svg){:target="_blank"}
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=740&lines=Hi+there%2C+I'm+Wylan)](https://git.io/typing-svg){:target="_blank"}
 
 <svg viewBox="0 0 2000 10" xmlns="http://www.w3.org/2000/svg">
   <defs>
